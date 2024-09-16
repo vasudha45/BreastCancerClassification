@@ -1,0 +1,70 @@
+,Title,Journal Name,Problem Statement,Methodology,Performance Evalution
+1,BC2NetRF: Breast Cancer Classification from Mammogram Images Using Enhanced Deep Learning Features and Equilibrium-Jaya Controlled Regula Falsi-Based Features Selection,Diagnostics," Proposes a novel automated framework for breast cancer 
+classification from mammogram images.","HRLG Contrast Enhancement Technique for image ,
+fine-tuned EfficientNet-b0 ,Equilibrium-Jaya Controlled Regula Falsi algorithm for feature selection","CBIS-DDSM and INbreast. For these 
+datasets, the achieved average accuracy is 
+95.4% and 99.7%."
+2,"Mammography with deep learning for breast 
+cancer detection",Front Oncol,"This overview explores leveraging deep learning techniques to enhance the accuracy and efficiency of mammography 
+for breast cancer screening. ","DL approaches like U-Net and Mask R-CNN are
+pivotal for breast lesion segmentation, offering diverse 
+techniques for precise analysis.","classify between benign and malignant 
+tumors, achieving an accuracy of 0.88, 
+higher than radiologists (0.83)."
+3,"Breast Tumor Classi?cation with Enhanced 
+Transfer Learning Features and Selection Using 
+Chaotic Map?Based Optimization","International Journal of 
+Computational Intelligence 
+Systems","Develop an automated computer-aided system for accurate 
+breast cancer classification from mammograms. ","EfficientNet-B4 architecture trained on both original and enhanced mammogram sets, utilizing feature fusion and optimization via a chaotic-crow-search algorithm.","classification accuracies of up to 98.459%
+on the INbreast database and 96.175% on
+the CBIS-DDSM "
+4,"A Yolo-Based Model for Breast Cancer Detection in
+ Mammograms",Cognitive Computation,"To implement an automated data-driven model for breast
+ cancer detection in mammograms to support physicians' 
+decision process within a breast cancer screening or
+ detection program. ","YOLO,Eigen-CAM saliency maps, coupled with YOLO predictions, offer an explainable decision support 
+system This integrated approach enhances diagnostic accuracy ","small YoloV5 model resulted in the best
+ developed solution obtaining an mAP of
+ 0.621 on proprietary dataset."
+5,"Breast Cancer Diagnosis Using YOLO-Based 
+Multiscale Parallel CNN and Flattened Threshold Swish",Applied sciences,"proposes a Breast Cancer Diagnosis (BCD) framework using a 
+YOLO-based multiscale parallel Convolutional Neural Network (CNN) architecture. ","The framework utilizes YOLO architecture for end-to-
+end Computer-Aided Diagnosis (CAD) of breast cancer, featuring specialized CNN components like PFES, DCB, and IB for efficient feature extraction.","accuracy of 98.72% for breast cancer 
+classification and a mean Average Precision
+ (mAP) of 91.15% for breast cancer 
+detection."
+6,"YOLO-based CAD framework with ViT transformer
+ for breast mass detection and classification in
+ CESM and FFDM images","Neural Computing and 
+Applications","propose a fully automated computer-aided diagnosis (CAD) 
+framework for mass detection and classification in Contrast Enhanced Spectral Mammography (CESM) and Full Field Digital Mammography (FFDM) images. ","The CAD framework combines YOLOv4 for mass 
+detection and ViT transformer for classification, pioneering full automation for CESM mass detection and classification, notably on the CDD-CESM dataset.","The proposed framework achieved a 
+classification accuracy of 95.65% on the INbreast dataset and 97.61% on the CESM images from the CDD-CESM dataset."
+7,"Using hybrid pre-trained models for breast 
+cancer detection",PLoS ONE,"Manual breast histopathology image analysis is time-
+consuming and error-prone, highlighting the need for more
+efficient and accurate detection methods in the medical field.","This study proposed a hybrid deep learning model 
+(CNN+EfficientNetV2B3)","The proposed model demonstrates 
+outstanding performance with an accuracy 
+of 96.3%"
+8,Detection and Diagnosis of Small Target Breast Masses Based on Convolutional Neural Networks,Electronic ISSN: 1007-0214,"The purpose of the research is to address the challenge of 
+high missed and misdiagnosis rates for small breast masses
+ in early screening for breast cancer"," the Residual asymmetric dilated convolution-Cross 
+layer attention-Mean standard deviation adaptive 
+selection-You Only Look Once (RCM-YOLO) network.","The model achieved an mAP of 90.34,
+ reduced missed detection rate for small 
+masses to 11, and decreased single 
+detection time to 28 ms, showcasing 
+improved detection accuracy and speed "
+9,"Deep transfer learning with fuzzy ensemble 
+approach for the early detection of breast cancer", Acad Radiol,"Early detection of breast cancer is crucial as many women do not experience symptoms at the initial stages, emphasizing the importance of timely diagnosis.
+","three deep CNN models such as VGG-11, Inception v3, and ResNet50 the modified Gompertz function for building a fuzzy ranking of the base classification models",The proposed ResNet50 ensemble network using the modified Gompertz function-based fuzzy ranking approach provides a superior classification accuracy of 98.986%.
+10,"Breast cancer detection using ensemble of
+convolutional neural
+networks ","International Journal of 
+Electrical and Computer 
+Engineering (IJECE) .","The research aims to address the challenge of timely breast 
+cancer detection to reduce mortality rates by leveraging deep learning techniques and image processing .","Ensemble learning was implemented by combining 
+individual CNN models selected using the Hungarian 
+optimization algorithm",Improved performance with an accuracy of 95.7%
